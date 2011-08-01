@@ -10,11 +10,11 @@ Mail::IMAPTalk::SortHelper - Handles some processing of the returns from sort an
 
 =head1 VERSION
 
-Version 0.0.0
+Version 0.0.1
 
 =cut
 
-our $VERSION = '0.0.0';
+our $VERSION = '0.0.1';
 
 
 =head1 SYNOPSIS
@@ -337,10 +337,11 @@ L<http://search.cpan.org/dist/Mail-IMAPTalk-SortHelper/>
 
 =head1 ACKNOWLEDGEMENTS
 
+ANDK, #52167, pointed out the missing dependency in Makefile.PL
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2009 Zane C. Bowers, all rights reserved.
+Copyright 2011 Zane C. Bowers-Hadley, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
